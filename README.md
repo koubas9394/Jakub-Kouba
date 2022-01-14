@@ -1,8 +1,6 @@
 - 👋 Hi, I’m Jakub Kouba
 - 👀 I’m interested in JS
-- 🌱 I’m currently learning JS
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning JS react
 
 <!---
 koubas9394/koubas9394 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
